@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rakibtg/sleekdb": "^2.13",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
